@@ -1,0 +1,27 @@
+body {
+    font-family: 'Noto Sans', sans-serif;
+}
+
+input {
+    border-radius: 10px;
+}
+
+.frame {
+    max-width: 500px;
+    float: right;
+    margin: auto;
+}
+
+.hidden {
+    display: none
+}
+
+.settings {
+    float: right;
+}
+
+.json-input {
+    margin: 0px;
+    height: 225px;
+    width: 800px;
+}
