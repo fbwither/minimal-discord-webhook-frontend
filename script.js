@@ -43,7 +43,8 @@ $(document).ready(() => {
         }
         $(".json").removeClass('on').addClass('off');
         $(".input").css({ "display": "flex" });
-        $(".json-input").addClass('hidden')
+        $(".json-input").addClass('hidden');
+        $(".json").html("JSON");
     });
 
     $('.settings').click(() => {
